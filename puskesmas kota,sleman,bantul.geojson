@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+          "type": "Feature",
+          "properties": {
+              "puskesmas": "Puskesmas Mantrijeron"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [110.361470499999, -7.820574694]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "puskesmas": "Puskesmas Kraton"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [110.3648886, -7.806023794]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "puskesmas": "Puskesmas Mergangsan"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [110.3752888, -7.810200424]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "puskesmas": "Puskesmas Umbulharjo I"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [110.3946707, -7.806336683]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "puskesmas": "Puskesmas Umbulharjo II"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [110.389999, -7.800325342]
+          }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Kotagede I"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.4005713, -7.822186423]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Kotagede II"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3946309, -7.813659753]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Gondokusuman I"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3807438, -7.793825654]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Gondokusuman II"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3710526, -7.778691037]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Danurejan I"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3752104, -7.794414912]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Danurejan II"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3777801, -7.788552455]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Pakualaman"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3719477, -7.799446942]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Gondomanan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3704987, -7.803954694]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Ngampilan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3558903, -7.803551635]
+        }
+      },
+      { 
+        "type": "Feature",
+        "properties": {
+          "puskesmas": "Puskesmas Wirobrajan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.3481032, -7.810662153]
+        }
+      },
+    {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Sleman"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.3464387, -7.701945095]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Tempel I"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.3271173, -7.658221812]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Tempel II"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.2880352, -7.700655728]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Turi"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.379738, -7.653956748]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Pakem"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.4216356, -7.660187164]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Cangkringan"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.4564216, -7.664776635]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Godean I"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.291739, -7.764077461]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Depok I"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.4313812, -7.774963735]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Minggir"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.2389019, -7.721240541]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "puskesmas": "Puskesmas Godean II"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [110.3038609, -7.776645164]
+        }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Bambanglipuro"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.313193, -7.921896]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Banguntapan I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.414012, -7.829224869]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Banguntapan II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3837336, -7.844749981]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Banguntapan III"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.412472, -7.812099]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Bantul II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3271534, -7.87176236]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Bantul I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3218297, -7.903534803]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Dlingo I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.4650492, -7.934109042]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Dlingo II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.4526673, -7.880232597]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Imogiri II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3726772, -7.944629227]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Jetis II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3490029, -7.928107708]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Jetis I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3752346, -7.897820393]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Kasihan I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3121875, -7.838296099]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Kasihan II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3450408, -7.829001513]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Kretek"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3189056, -7.972507756]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Pajangan"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.2895649, -7.893528651]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Pandak II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.2842368, -7.918306487]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Pandak I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3015373, -7.901443861]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Piyungan"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.4585763, -7.831275078]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Pleret"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3897083, -7.864176216]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Pundong"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3437643, -7.956693687]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Sanden"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.2650107, -7.96666644]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Sedayu I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.2762524, -7.80172907]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Sedayu II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.2566105, -7.816799621]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Sewon II"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.36053, -7.847010252]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Sewon I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3534735, -7.860892818]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Srandakan"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.250742, -7.938293518]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Pembantu"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3211813, -7.944109131]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Pembantu Sorok"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3357736, -7.930582542]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Jagalan"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3958763, -7.82752654]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Pembantu Ketandan"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.4078564, -7.811345128]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Imogiri I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3802156, -7.919880706]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "puskesmas": "Puskesmas Dusun Trimulyo"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.3904091, -7.891588317]
+    }
+  }
+]
+}
